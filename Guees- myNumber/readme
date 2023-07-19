@@ -1,0 +1,10 @@
+how to logical thinking when i was start build from scratch?
+
+*know the random value of the guess
+code with Math.trunc(Math.random()) 
+
+*making functionality of the input
+1. make a function that calling the input(displayNumber)
+2. make a function dom (addEventLister)
+3. inside of function dom , i can make if else statement so that make a logical game
+4. of the last, i make reserve of the page such as the refresh page 
